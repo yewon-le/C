@@ -22,7 +22,8 @@ int main ()
 */
 
 //76
-/* int i, answer, score=0, num, correct;
+/*
+int i, answer, score=0, num, correct;
 for (i=0; i<5; i++) {
 correct = 0;
 num=0;
@@ -85,5 +86,6 @@ if (data > 0) {
  printf("The number of positive numbers : %d\n", pnum);
  printf("Average of positive numbers = %.2f", pavg/pnum);
 */
+
 
 }
